@@ -1,2 +1,2 @@
-# wewbsite
+# website
 WEB DEVELOPMENT
